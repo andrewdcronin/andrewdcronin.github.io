@@ -2,11 +2,12 @@
 permalink: /
 title: ""
 author_profile: true
-
-header:
-  image: /images/tungara_pair.JPG
   
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+/images/tungara_pair.JPG
+
+I am a postdoctoral researcher working with Karin Pfennig...
