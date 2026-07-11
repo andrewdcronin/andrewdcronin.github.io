@@ -12,7 +12,7 @@ main:
     url: /research/
 
   - title: "Publications"
-    url: https://scholar.google.com/citations?user=UAR_-poAAAAJ&hl=en&oi=ao
+    url: /publications/
 
   - title: "Teaching & Mentorship"
     url: /teaching/    
