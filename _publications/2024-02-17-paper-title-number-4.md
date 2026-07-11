@@ -5,8 +5,8 @@ category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
+venue: 'Behavioral Ecology'
+paperurl: '[https://academicpages.github.io/files/paper3.pdf](https://doi.org/10.1093/beheco/arae088)'
 citation: 'Judith A H Smit, Vera Thijssen, Andrew D Cronin, Jacintha Ellers, Wouter Halfwerk, Urban sensory conditions alter rival interactions and mate choice in urban and forest túngara frogs, Behavioral Ecology, Volume 35, Issue 6, November/December 2024, arae088.'
 ---
 
