@@ -3,7 +3,7 @@ title: "Noise pollution and artificial light at night alter selection pressures 
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'Selected as Editor's Choice'
+excerpt: "Selected as Editor's Choice"
 date: 2025-10-01
 venue: 'Journal of Evolutionary Biology'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
