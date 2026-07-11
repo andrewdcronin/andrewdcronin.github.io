@@ -12,7 +12,5 @@ I am a evolutionary and behavioral ecologist fascinated by how animals cope with
 
 /images/tungara_pair.JPG
 
-<p>
-TEST IMAGE
-</p>
+<p>TEST IMAGE</p>
 
