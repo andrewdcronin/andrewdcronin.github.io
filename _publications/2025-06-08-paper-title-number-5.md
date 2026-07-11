@@ -1,9 +1,9 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "Anthropogenic noise and light alter temporal but not spatial breeding behavior in a wild frog"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
+excerpt: ''
 date: 2022-11-31
 venue: 'Behavioral Ecology'
 paperurl: '[https://academicpages.github.io/files/paper3.pdf](https://doi.org/10.1093/beheco/arac077)'
