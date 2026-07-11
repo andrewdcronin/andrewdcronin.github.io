@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-/images/tungara_pair.JPG
-``
+<p align="center">
+  /images/tungara_pair.JPG" width="900">
+</p>
 
 I am a postdoctoral researcher working with Karin Pfennig...
