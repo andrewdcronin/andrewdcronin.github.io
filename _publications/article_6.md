@@ -6,7 +6,6 @@ permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: ''
 date: 2022-08-14
 venue: 'Biological Reviews'
-slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://doi.org/10.1111/brv.12845'
 citation: 'Cronin, A.D., Smit, J.A.H., Muñoz, M.I., Poirier, A., Moran, P.A., Jerem, P. and Halfwerk, W. (2022), A comprehensive overview of the effects of urbanisation on sexual selection and sexual traits. Biol Rev, 97: 1325-1345.'
 ---
