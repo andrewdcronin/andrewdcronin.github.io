@@ -4,7 +4,7 @@ title: "About"
 author_profile: true
 
 header:
-  overlay_image: /images/tungara_pair.JPG
+  overlay_image: ![Tungara Frog](/images/tungara_pair.JPG)
 
 redirect_from: 
   - /about/
