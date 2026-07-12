@@ -3,11 +3,9 @@ title: "Rapid cross-generational changes in morphology and mate choice following
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2025-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: '[https://academicpages.github.io/files/paper2.pdf](https://doi.org/10.1007/s10682-024-10324-1)'
+venue: 'Evolutionary Ecology'
+paperurl: 'https://doi.org/10.1007/s10682-024-10324-1'
 citation: 'Cronin, A.D., Taylor, R.C., Page, R.A. et al. Rapid cross-generational changes in morphology and mate choice following an extreme climatic event. Evol Ecol 39, 495–508 (2025).'
 ---
 
