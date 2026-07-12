@@ -6,8 +6,7 @@ permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: ''
 date: 2025-06-29
 venue: 'Journal of Animal Ecology'
-slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://doi.org/10.1111/1365-2656.70071'
 citation: 'Cronin, A. D., Smit, J. A. H., Ellers, J., & Halfwerk, W. (2025). Urban developmental environments alter tadpole phenotypes depending on origin. Journal of Animal Ecology, 94, 1707–1719.'
 ---
 
