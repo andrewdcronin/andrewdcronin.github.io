@@ -2,7 +2,6 @@
 title: "Urban developmental environments alter tadpole phenotypes depending on origin"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
 date: 2025-06-29
 venue: 'Journal of Animal Ecology'
 paperurl: 'https://doi.org/10.1111/1365-2656.70071'
