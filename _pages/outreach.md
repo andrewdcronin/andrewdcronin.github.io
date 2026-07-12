@@ -1,5 +1,23 @@
-Noche de Bichos with the Biomuseo!
+---
+title: "Outreach"
+permalink: /outreach/
+author_profile: true
+---
 
-Bat Night at the STRI Gamboa Lab!
+# Outreach
 
-Smithsonian Blog post
+## Events
+
+### Noche de Bichos with the Biomuseo!
+
+Description here.
+
+### Bat Night at the STRI Gamboa Lab!
+
+Description here.
+
+## Media
+
+### Smithsonian Blog Post
+
+Description and link here.
