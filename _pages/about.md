@@ -2,7 +2,10 @@
 permalink: /
 title: "About"
 author_profile: true
-  
+
+header:
+  overlay_image: /images/background.jpg
+
 redirect_from: 
   - /about/
   - /about.html
