@@ -3,7 +3,6 @@ title: "A comprehensive overview of the effects of urbanisation on sexual select
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: ''
 date: 2022-08-14
 venue: 'Biological Reviews'
 paperurl: 'https://doi.org/10.1111/brv.12845'
