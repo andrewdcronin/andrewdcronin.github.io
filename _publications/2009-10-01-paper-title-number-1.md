@@ -11,4 +11,4 @@ citation: '<strong>Cronin, A. D.</strong>, Zilber, R., Jerem, P., & Halfwerk, W.
 
 ![JEB Cover Image](/images/cover.jpeg)
 
-<img src="image.jpg" alt="A floating image" style="float: right; margin-left: 15px;">
+<img src="/images/cover.jpeg" alt="A floating image" style="float: right; margin-left: 15px;">
