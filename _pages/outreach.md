@@ -4,8 +4,6 @@ permalink: /outreach/
 author_profile: true
 ---
 
-# Outreach
-
 ## Events
 
 ### Noche de Bichos with the Biomuseo!
