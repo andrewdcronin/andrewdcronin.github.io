@@ -2,7 +2,7 @@
 title: "Noise pollution and artificial light at night alter selection pressures on sexual signals in an urban adapter"
 collection: publications
 category: manuscripts
-excerpt: '/images/cover.jpeg<br>Selected as Editor''s Choice'
+excerpt: '!(/images/cover.jpeg)<br>Selected as Editor''s Choice'
 date: 2025-10-01
 venue: 'Journal of Evolutionary Biology'
 paperurl: 'https://doi.org/10.1093/jeb/voaf092'
