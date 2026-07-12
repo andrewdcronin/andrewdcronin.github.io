@@ -1,5 +1,5 @@
-Noche de Bichos with the Biomuseo
+Noche de Bichos with the Biomuseo!
 
-Bat Night
+Bat Night at the STRI Gamboa Lab!
 
-Blog post
+Smithsonian Blog post
